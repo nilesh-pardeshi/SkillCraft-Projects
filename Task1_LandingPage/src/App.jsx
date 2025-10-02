@@ -72,7 +72,7 @@ const App = () => {
         <a href="https://skillcrafttech.com/" className="contact-btn">Contact Us</a>
       </section>
 
-      {/* FOOTER */}
+      {/*  FOOTER  */}
       <footer>
         <p>© {new Date().getFullYear()} SkillCraft Technology. Crafted with 💙 by You.</p>
       </footer>
